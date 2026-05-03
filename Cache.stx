@@ -1,0 +1,43 @@
+Release 13.4 - xst O.87xd (lin64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/student1/a2bholat/coe758/CacheController_1.1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/student1/a2bholat/coe758/CacheController_1.1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/student1/a2bholat/coe758/CacheController_1.1/ipcore_dir/SRAM.vhd" in Library work.
+Architecture sram_a of Entity sram is up to date.
+Compiling vhdl file "/home/student1/a2bholat/coe758/CacheController_1.1/CacheController.vhd" in Library work.
+Architecture behavioral of Entity cachecontroller is up to date.
+Compiling vhdl file "/home/student1/a2bholat/coe758/CacheController_1.1/Cache.vhd" in Library work.
+Entity <cache> compiled.
+Entity <cache> (Architecture <behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> 
+
+
+Total memory usage is 700896 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
