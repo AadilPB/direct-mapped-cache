@@ -1,3 +1,0 @@
-vhdl work "ipcore_dir/SRAM.vhd"
-vhdl work "CacheController.vhd"
-vhdl work "Cache.vhd"

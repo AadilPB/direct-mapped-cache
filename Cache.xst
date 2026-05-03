@@ -1,5 +1,0 @@
-set -tmpdir "/home/student1/a2bholat/coe758/CacheController_1.1/xst/projnav.tmp"
-set -xsthdpdir "/home/student1/a2bholat/coe758/CacheController_1.1/xst"
-elaborate
--ifn Cache.prj
--ifmt mixed

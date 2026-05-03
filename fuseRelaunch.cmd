@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "/home/student1/a2bholat/coe758/CacheController_1.1/CacheSystem_tb_7_isim_beh.exe" -prj "/home/student1/a2bholat/coe758/CacheController_1.1/CacheSystem_tb_7_beh.prj" "work.CacheSystem_tb_7" 
