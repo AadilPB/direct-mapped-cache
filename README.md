@@ -6,8 +6,9 @@ A direct mapped cache controller implemented in VHDL on a Xilinx Spartan-3E FPGA
 
 ## Requirements
 ### Hardware
-
+- Xilinx Spartan-3E XCS500E FPGA
 ### Software
+- Xilinx ISE 12.4
 
 ## How it Works
 
